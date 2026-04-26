@@ -132,3 +132,4 @@
 {"name":"hyperlane_resources","vers":"21.0.9","deps":[],"cksum":"55d4c8e2107c06b748ce8770c1ee5db9641aa2ab325a8cdc0c3f94acc6e6f2d1","features":{},"yanked":false,"pubtime":"2026-04-12T01:28:40Z"}
 {"name":"hyperlane_resources","vers":"21.0.10","deps":[],"cksum":"d4673ecd28000f0de5464dc77340820fef6801f5aa9116095bd25bcb2aad1627","features":{},"yanked":false,"pubtime":"2026-04-12T02:50:06Z"}
 {"name":"hyperlane_resources","vers":"21.1.0","deps":[],"cksum":"765c1774d0cfbe8bad4f12816cf2f63677d4c9256fa327bbc53e18d57ff52b62","features":{},"yanked":false,"pubtime":"2026-04-17T14:16:45Z"}
+{"name":"hyperlane_resources","vers":"21.2.0","deps":[],"cksum":"8aceb6c8fbfbff9efb3a95e2f28cd0117eacf3805e6387f50d3a52b7ad4a7e7e","features":{},"yanked":false,"pubtime":"2026-04-26T15:27:17Z"}
