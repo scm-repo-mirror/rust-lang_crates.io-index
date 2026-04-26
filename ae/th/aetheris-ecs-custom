@@ -15,3 +15,4 @@
 {"name":"aetheris-ecs-custom","vers":"0.8.2","deps":[],"cksum":"fb43bc2400e531b09633e070620f425771af206951e8c773860f959acadad05c","features":{},"yanked":false,"pubtime":"2026-04-24T11:55:20Z"}
 {"name":"aetheris-ecs-custom","vers":"0.9.0","deps":[],"cksum":"a5beef380589a6467c7032fe118e1e3b090249cff34a5afe9ddd17ded2ec5a1a","features":{},"yanked":false,"pubtime":"2026-04-25T02:39:47Z"}
 {"name":"aetheris-ecs-custom","vers":"0.10.0","deps":[],"cksum":"e4e52968779c491d96cb2a051a8fa690dc4f6f911074a51fd0ae38b5b579d066","features":{},"yanked":false,"pubtime":"2026-04-26T02:33:40Z"}
+{"name":"aetheris-ecs-custom","vers":"0.10.1","deps":[],"cksum":"3816df56f685c609536da28a7e235e74dfaaab749725e6dc68c879370800a5ae","features":{},"yanked":false,"pubtime":"2026-04-26T14:44:46Z"}
