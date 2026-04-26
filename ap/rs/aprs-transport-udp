@@ -1,0 +1,1 @@
+{"name":"aprs-transport-udp","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f947b7a01b2a57a1abe1eb94bc556558d66c2a46fb23680b510ba4b0687086cf","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T09:38:41Z"}
