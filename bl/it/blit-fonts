@@ -29,3 +29,4 @@
 {"name":"blit-fonts","vers":"0.28.1","deps":[],"cksum":"2926f684caeafb9fba57e4e4f4521295d815deea67e86abc467856383023930e","features":{},"yanked":false,"pubtime":"2026-04-21T23:19:02Z"}
 {"name":"blit-fonts","vers":"0.28.2","deps":[],"cksum":"a6f85c0a3fdcb11f744a5fd73dbb08d6b67a3d38e7ae32bf4ad1bd2d123b6b9b","features":{},"yanked":false,"pubtime":"2026-04-22T14:59:06Z"}
 {"name":"blit-fonts","vers":"0.28.3","deps":[],"cksum":"74047b9163ce93486b06a570ad70437ec662bd4d4a0573915f1714f1ddd49f15","features":{},"yanked":false,"pubtime":"2026-04-23T23:07:09Z"}
+{"name":"blit-fonts","vers":"0.29.0","deps":[],"cksum":"6964488e67502afa1338ae612fd23c1242f8e273e789a48a5052656ee7239d04","features":{},"yanked":false,"pubtime":"2026-04-26T19:46:36Z"}
