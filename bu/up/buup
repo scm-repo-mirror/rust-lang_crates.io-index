@@ -28,3 +28,4 @@
 {"name":"buup","vers":"0.25.2","deps":[],"cksum":"2be504cb6fff98dd64216b8a8a42e297d85da09b4a236f6239ff59fd2424a43c","features":{},"yanked":false,"pubtime":"2025-09-29T11:25:31Z"}
 {"name":"buup","vers":"0.25.3","deps":[],"cksum":"02edce7e0cfefbc56c81bb0b179c94d8456950b8ab6a6ee6beea7d431888c4c4","features":{},"yanked":false,"pubtime":"2025-09-29T11:33:51Z"}
 {"name":"buup","vers":"0.25.4","deps":[],"cksum":"7b2a207815bf886084f8d0ed066781ec187c25893f4693fe58ff11fb601f5f08","features":{},"yanked":false,"pubtime":"2026-04-26T10:54:20Z"}
+{"name":"buup","vers":"0.25.5","deps":[],"cksum":"9fb3537c8c154ecd6fa704888db85a917859f90aee04310efb9454eb010a38a7","features":{},"yanked":false,"pubtime":"2026-04-26T11:16:43Z"}
