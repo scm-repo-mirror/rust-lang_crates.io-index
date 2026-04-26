@@ -27,3 +27,4 @@
 {"name":"buup","vers":"0.25.1","deps":[],"cksum":"0401e7be7b86be00446d4edb581c2ef8e3e4ba52a8a504ebe6ce0444107e5f57","features":{},"yanked":false,"pubtime":"2025-09-29T10:59:22Z"}
 {"name":"buup","vers":"0.25.2","deps":[],"cksum":"2be504cb6fff98dd64216b8a8a42e297d85da09b4a236f6239ff59fd2424a43c","features":{},"yanked":false,"pubtime":"2025-09-29T11:25:31Z"}
 {"name":"buup","vers":"0.25.3","deps":[],"cksum":"02edce7e0cfefbc56c81bb0b179c94d8456950b8ab6a6ee6beea7d431888c4c4","features":{},"yanked":false,"pubtime":"2025-09-29T11:33:51Z"}
+{"name":"buup","vers":"0.25.4","deps":[],"cksum":"7b2a207815bf886084f8d0ed066781ec187c25893f4693fe58ff11fb601f5f08","features":{},"yanked":false,"pubtime":"2026-04-26T10:54:20Z"}
