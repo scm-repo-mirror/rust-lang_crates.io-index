@@ -3,3 +3,4 @@
 {"name":"cow-graph","vers":"0.3.0","deps":[],"cksum":"cf5279489e68adfc68393bbf69a00e8fc659c4575db6416e79931d6da8c98a15","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-04-21T14:46:40Z"}
 {"name":"cow-graph","vers":"0.4.0","deps":[],"cksum":"308db3d3417c300bf82a01dd589bb0e80db51b88bc1897cbbfca6192518070be","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-04-21T19:58:56Z"}
 {"name":"cow-graph","vers":"0.5.0","deps":[],"cksum":"088348344fbc9f1a202904c032434afb695acd77d82cf2ecb766a71e0c374ec5","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-04-21T22:21:24Z"}
+{"name":"cow-graph","vers":"0.5.1","deps":[],"cksum":"94cffc528dfbf1aa78951c633433bc134e31f4da4b5a93274b348965b5324c55","features":{},"yanked":false,"rust_version":"1.93","pubtime":"2026-04-26T14:06:15Z"}
