@@ -1,1 +1,2 @@
 {"name":"jigs-core","vers":"0.0.1","deps":[],"cksum":"a1d389c59de0a50fc1394db512e624ac4e3f3ea63d4d81ea6c9e494a0d3db1ab","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-04-26T10:58:18Z"}
+{"name":"jigs-core","vers":"0.0.2","deps":[{"name":"inventory","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7f38773637d51df61c77ed96110d797cec1d0c5760d0d5af70ff8a42dc0c3412","features":{},"yanked":false,"rust_version":"1.75","pubtime":"2026-04-26T14:25:47Z"}
