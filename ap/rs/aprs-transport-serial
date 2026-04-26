@@ -1,0 +1,1 @@
+{"name":"aprs-transport-serial","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"55616bb402ec5b17068d9a35e31087746220d18da3cc2078b92e1e222aaf8d99","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T09:38:38Z"}
