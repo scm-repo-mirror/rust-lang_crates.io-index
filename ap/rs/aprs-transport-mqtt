@@ -1,0 +1,1 @@
+{"name":"aprs-transport-mqtt","vers":"0.1.4","deps":[{"name":"libaprs-engine","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9c4aff3a315c1c59877f400e49ba4d1d5fff81e60d12eabe5f0bf609308b7b4d","features":{},"yanked":false,"rust_version":"1.80","pubtime":"2026-04-26T08:47:10Z"}
