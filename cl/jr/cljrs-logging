@@ -16,3 +16,4 @@
 {"name":"cljrs-logging","vers":"0.1.20","deps":[],"cksum":"ce7129f2d3a5654abe56040bee090bd5ca7ef32c2c83726f87ed410b1937494a","features":{},"yanked":false,"pubtime":"2026-04-25T20:52:50Z"}
 {"name":"cljrs-logging","vers":"0.1.21","deps":[],"cksum":"77cc8348e399bcc4be0bc42131b0ca51bdd84307cfea1fa815e237a99436029d","features":{},"yanked":false,"pubtime":"2026-04-26T04:07:43Z"}
 {"name":"cljrs-logging","vers":"0.1.22","deps":[],"cksum":"4ada2ab25c02facc354482c0ba18365ace5d9f0411d71e1731c8d9d9126de4b6","features":{},"yanked":false,"pubtime":"2026-04-27T01:24:21Z"}
+{"name":"cljrs-logging","vers":"0.1.24","deps":[],"cksum":"0184e8ecd527d794716a25d860f272e3a4fa30f4c674fe9645118bcfeb14edb5","features":{},"yanked":false,"pubtime":"2026-04-27T02:02:57Z"}
