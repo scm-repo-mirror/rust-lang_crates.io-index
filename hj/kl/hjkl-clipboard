@@ -1,0 +1,1 @@
+{"name":"hjkl-clipboard","vers":"0.2.0","deps":[{"name":"arboard","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"77e1f1927dbbd58822324d71b1cf271d87ac1a94836d0a6d84f45398bc5534a5","features":{},"yanked":false,"rust_version":"1.95","pubtime":"2026-04-27T09:15:31Z"}
