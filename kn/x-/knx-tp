@@ -1,1 +1,0 @@
-{"name":"knx-tp","vers":"0.1.0","deps":[{"name":"knx-core","req":"^0.1.0","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"e2865d53cb4576936d77f7cb96d0849d7bce7a8167b08a0499605bb3656d6172","features":{"default":[]},"yanked":false,"rust_version":"1.85","pubtime":"2026-04-26T22:43:34Z"}
