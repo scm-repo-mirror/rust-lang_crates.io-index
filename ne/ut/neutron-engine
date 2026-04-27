@@ -1,0 +1,1 @@
+{"name":"neutron-engine","vers":"0.1.1","deps":[{"name":"ion","req":"^0.13.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"835a1aae231cf621c7b528d95ecdc61aee989f7ea633764b1036581843d94cc4","features":{},"yanked":false,"pubtime":"2026-04-27T14:05:19Z"}
