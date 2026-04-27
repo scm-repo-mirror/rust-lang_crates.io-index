@@ -3,3 +3,4 @@
 {"name":"rfitsio","vers":"0.3.2","deps":[],"cksum":"4b14d07434d06c7fdf6b44c0ca8c94ed1b51f4f30a230a2a4c5b5f0dd58d3d7c","features":{},"yanked":false,"pubtime":"2026-04-27T12:56:11Z"}
 {"name":"rfitsio","vers":"0.3.3","deps":[],"cksum":"2aa4c6c3550af941afcff7b316b71f11ae2da6cd033e39fe10adfb59b362bf79","features":{},"yanked":false,"pubtime":"2026-04-27T13:11:24Z"}
 {"name":"rfitsio","vers":"0.3.4","deps":[],"cksum":"67d76715c68ab9948dbfe82d29a9ce77f3639dd80bafc389406069a12ab2a2fc","features":{},"yanked":false,"pubtime":"2026-04-27T13:13:39Z"}
+{"name":"rfitsio","vers":"0.3.5","deps":[],"cksum":"40012bb1c16454fc5fb76e85c63bd89afc6eea51b2fe6365d733986282c24712","features":{},"yanked":false,"pubtime":"2026-04-27T13:20:54Z"}
